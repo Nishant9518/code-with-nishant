@@ -12,4 +12,11 @@ console.log(u == v);*/
 let a = 10;
 let b = "20";
 console.log(a + b ) // this also called concateniantion
+// js ne values ko do hisso me tod rakha h truthy and falsy
+// falsy values -> 0, "", null, undefined, NaN ,document.all
+console.log(!!0)
+console.log(!!"")
+console.log(!!null)
+console.log(!!undefined)
+console.log(!!NaN)
 
