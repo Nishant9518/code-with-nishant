@@ -35,8 +35,28 @@ while(j<=15){
 //for(let i = 10; i>=1; i--) {
  //   console.log(i);
 //}
-let i = 10;
-while(i>=1){
-    console.log(i)
-    i--
+//let i = 10;
+//while(i>=1){
+  //  console.log(i)
+ //   i--
+//}
+//for (let i = 2; i <= 20; i++) {
+  //  if(i%2==0){
+    //    console.log(i)
+    //}
+//}
+/*for(let i = 1; i <=10; i++) {
+    console.log(`table of ${i})`)
+    for(let j = 1; j <= 10; j++) {
+        console.log(`${i} * ${j} = ${i*j   }`)
+    }
+} */
+/*
+let sum = 0;
+for (let i = 1; i <= 100; i++){
+    sum += i;
 }
+console.log(`sum of 1 to 100 is ${sum}`)
+*/
+let number = prompt("enter your number");
+ 
