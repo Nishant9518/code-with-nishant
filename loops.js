@@ -14,6 +14,7 @@ while (i <= 32){
   //  console.log(i);
 //}
 // print number 10 to 1 using while loop
+/*
 let i = 10;
 while(i>=1){
     console.log(i)
@@ -30,4 +31,12 @@ while(j<=15){
         console.log(j)
     }
     j++
+} */
+//for(let i = 10; i>=1; i--) {
+ //   console.log(i);
+//}
+let i = 10;
+while(i>=1){
+    console.log(i)
+    i--
 }
