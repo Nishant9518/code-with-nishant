@@ -58,5 +58,7 @@ for (let i = 1; i <= 100; i++){
 }
 console.log(`sum of 1 to 100 is ${sum}`)
 */
-let number = prompt("enter your number");
+for(let i = 1; i <= 100; i+=2){
+    console.log(i)
+}
  
