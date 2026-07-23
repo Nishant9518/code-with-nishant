@@ -61,4 +61,8 @@ console.log(`sum of 1 to 100 is ${sum}`)
 for(let i = 1; i <= 100; i+=2){
     console.log(i)
 }
+function name(...args){
+    console.log(args)
+}
+name(1,2,3,4,5,6,7,8,9,10)
  
